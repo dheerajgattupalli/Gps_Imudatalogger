@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gps_Imu Datalogger</string>
+
+    <string name="drawer_open">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_close">Gps_Imu</string>
+    <string name="location_updated_message">Values Updated</string>
+</resources>
